@@ -7,8 +7,8 @@
 #define AERIS_ESP_CONFIG_H
 
 /* ---- Wi-Fi ---------------------------------------------------------- */
-#define WIFI_SSID          "NITU"
-#define WIFI_PASSWORD      "VIKAS@_25121986"
+#define WIFI_SSID          "YOUR_WIFI_NAME"
+#define WIFI_PASSWORD      "YOUR_WIFI_PASSWORD"
 
 /* ---- MQTT broker -----------------------------------------------------
  * Use the LAN IP of the computer running Mosquitto, NOT "localhost"
