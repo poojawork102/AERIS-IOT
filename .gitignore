@@ -1,1 +1,4 @@
 IOT_Project_Template__1_/
+
+# Real Wi-Fi / MQTT credentials — edit config.example.h, save as config.h
+firmware/esp8266/aeris_esp8266/config.h
